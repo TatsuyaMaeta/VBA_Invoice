@@ -1,2 +1,2 @@
 # VBA_Invoice
-VBAでの請求書の内容
+ExcelのVBAを使用した請求書における自動入力のマクロ
